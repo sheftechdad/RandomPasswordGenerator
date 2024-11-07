@@ -9,6 +9,9 @@ In today’s digital world, cybersecurity is essential. Strong, unique passwords
 ✅ User-Specified Components:
 
 🅰️ Choose the specific letters you want included.
+
 🔢 Specify the number of digits for an extra layer of complexity.
+
 💥 Pick special characters to make your password truly unique and secure.
+
 🔒 Try it out, and pass it along to your network and friends – a small step towards staying safer online!
